@@ -1,0 +1,4 @@
+NODEJS
+
+npm init
+Cria um arquivo que descreve o projeto e suas dependências
