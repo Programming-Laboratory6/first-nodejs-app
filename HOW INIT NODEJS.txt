@@ -1,4 +1,7 @@
 NODEJS
 
+nmp install
+nmp start
+
 npm init
-Cria um arquivo que descreve o projeto e suas dependências
+Cria um arquivo que descreve o projeto e suas dependÃªncias
